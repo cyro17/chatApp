@@ -28,7 +28,4 @@ public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
 
         // connection is established on chat endpoint
     }
-
-
-
 }
