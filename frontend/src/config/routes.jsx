@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router";
 import App from "../App";
-import ChatPage from "./components/ChatPage";
+import ChatPage from "../components/ChatPage";
 
 
 export default function AppRoutes() {

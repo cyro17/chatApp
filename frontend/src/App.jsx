@@ -1,6 +1,6 @@
 
 import './App.css';
-import JoinCreateChat from './config/components/JoinCreateChat';
+import JoinCreateChat from './components/JoinCreateChat';
 
 export default function App() {
   return (
